@@ -17,8 +17,11 @@ The University of Hong Kong
 
 # Education
 PhD (Under dual program, 2020-2022), Civil Engineering, The Hong Kong University Science and Technology, Hong Kong
+
 PhD (Under dual program, 2017-2022),Mechanical Engineering, Sharif University of Technology, Tehran, Iran
+
 M.Sc. (2015-2017), Mechanical Engineering, Sharif University of Technology, Tehran, Iran .
+
 B.Sc. (2011-2015), Mechanical Engineering, Shiraz University, Shiraz, Iran.
 
 # News
