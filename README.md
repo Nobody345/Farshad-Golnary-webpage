@@ -6,3 +6,6 @@ In this webpage, you can find my recent research related to above topics.
 April 2024- I joined the University of Technology Sydney as a Remote visiting Scholar.
 
 April 2023- I recruted as a research associate at the University of New South Wales in Australia
+
+## Publications
+# 1- Wind turbine control
